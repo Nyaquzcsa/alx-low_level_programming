@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main – a program that calculate the sizes of
- * Data Types for current system
+ * main – a program that calculate data type size.
  * Return: 0 (Success)
  */
 int main(void)
