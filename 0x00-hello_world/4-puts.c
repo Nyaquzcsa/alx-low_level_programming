@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main- function is to use puts to print string of characters.
- * Return 0 (Success).
+ * main  -  puts to print string
+ * Return:0 (Sucess)
  */
 int main(void)
 {
