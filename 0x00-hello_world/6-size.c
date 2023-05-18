@@ -2,7 +2,7 @@
 /**
  * main – a program that calculate the sizes of
  * Data Types for current system
- * Return 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
