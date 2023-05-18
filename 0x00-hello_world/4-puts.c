@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- *  main is the starting point of any c programcompilation
- *  return shoud be  a 0
+ * main- function is to use puts to print string of characters.
+ *  Return 0 (Success).
 */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
