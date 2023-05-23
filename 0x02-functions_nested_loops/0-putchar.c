@@ -1,4 +1,5 @@
 #include <main.h>
+#include "main.h"
 /**
  * main - To print putchar
  * Return: (0) Success value
